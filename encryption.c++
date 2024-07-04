@@ -3,7 +3,7 @@ using namespace std;
 #define ll long long
 #define mod 1000000007
 #define int long long
-//RSA message ecryption and decryption
+//RSA message encryption 
 
 //first we will check if the number is prime or not
 bool isPrime(ll n){
